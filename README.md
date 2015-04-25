@@ -1,4 +1,4 @@
-zipcode
+zipcoderd
 =======
 
 Node module to easily lookup sector and province for a Dominican Republic zipcode
