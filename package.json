@@ -1,0 +1,24 @@
+{
+  "name": "zipcode",
+  "version": "0.1.1",
+  "description": "Easily lookup sector and province for a Dominican Republic zipcode",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onilpereyra/zipcoderd.git"
+  },
+  "keywords": [
+    "zip",
+    "usps",
+    "city",
+    "state"
+  ],
+  "author": "Onil Pereyra <onil.pereyra@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/onilpereyra/zipcoderd/issues"
+  },
+  "homepage": "https://github.com/onilpereyra/zipcoderd"
+}
