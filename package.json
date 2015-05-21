@@ -1,6 +1,6 @@
 {
   "name": "zipcoderd",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Easily lookup sector and province for a Dominican Republic zipcode",
   "scripts": {
     "test": "node test.js"
